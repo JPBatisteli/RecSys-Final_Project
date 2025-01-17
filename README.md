@@ -9,12 +9,11 @@ Pytorch version 1.12.1
 
 ## Running
 ``python main.py``  
-Then you can get similar result on TaoBao dataset as illustrated in the paper.  
+Then you can get similar result on TaoBao dataset as in the paper.  
 
 You can check different hyper-parameters in `utils/parser.py`
 
 ## Changes
 
 1) Adding transformations after and before each graph convolution
-
-```
+2) Change the Layer Attention to Gated Attention

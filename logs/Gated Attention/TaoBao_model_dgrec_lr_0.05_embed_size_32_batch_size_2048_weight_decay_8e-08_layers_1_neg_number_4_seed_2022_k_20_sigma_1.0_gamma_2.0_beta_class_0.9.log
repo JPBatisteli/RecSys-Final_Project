@@ -1,0 +1,80 @@
+Mon, 13 Jan 2025 15:55:36  INFO loadding data
+Mon, 13 Jan 2025 15:55:36  INFO reading category information
+Mon, 13 Jan 2025 15:55:43  INFO reading train data
+Mon, 13 Jan 2025 16:05:36  INFO reading valid data
+Mon, 13 Jan 2025 16:05:37  INFO reading test data
+Mon, 13 Jan 2025 16:05:38  INFO get weight for each sample
+Mon, 13 Jan 2025 16:05:46  INFO train loss = 0.6287441849708557
+Mon, 13 Jan 2025 16:05:51  INFO loss: 0.7982072234153748, Performance is better... saving the model
+Mon, 13 Jan 2025 16:05:57  INFO train loss = 0.512283205986023
+Mon, 13 Jan 2025 16:06:02  INFO loss: 0.7077666521072388, Performance is better... saving the model
+Mon, 13 Jan 2025 16:06:07  INFO train loss = 0.4152822196483612
+Mon, 13 Jan 2025 16:06:12  INFO loss: 0.6184857487678528, Performance is better... saving the model
+Mon, 13 Jan 2025 16:06:16  INFO train loss = 0.33381885290145874
+Mon, 13 Jan 2025 16:06:22  INFO loss: 0.5395439267158508, Performance is better... saving the model
+Mon, 13 Jan 2025 16:06:27  INFO train loss = 0.26843708753585815
+Mon, 13 Jan 2025 16:06:32  INFO loss: 0.472048282623291, Performance is better... saving the model
+Mon, 13 Jan 2025 16:06:37  INFO train loss = 0.21730852127075195
+Mon, 13 Jan 2025 16:06:42  INFO loss: 0.41781407594680786, Performance is better... saving the model
+Mon, 13 Jan 2025 16:06:47  INFO train loss = 0.17948059737682343
+Mon, 13 Jan 2025 16:06:52  INFO loss: 0.3709213137626648, Performance is better... saving the model
+Mon, 13 Jan 2025 16:06:59  INFO train loss = 0.1491965353488922
+Mon, 13 Jan 2025 16:07:04  INFO loss: 0.3351916968822479, Performance is better... saving the model
+Mon, 13 Jan 2025 16:07:10  INFO train loss = 0.12952573597431183
+Mon, 13 Jan 2025 16:07:16  INFO loss: 0.3056905269622803, Performance is better... saving the model
+Mon, 13 Jan 2025 16:07:21  INFO train loss = 0.12024612724781036
+Mon, 13 Jan 2025 16:07:26  INFO loss: 0.2775675654411316, Performance is better... saving the model
+Mon, 13 Jan 2025 16:07:30  INFO train loss = 0.10862953960895538
+Mon, 13 Jan 2025 16:07:36  INFO loss: 0.25483497977256775, Performance is better... saving the model
+Mon, 13 Jan 2025 16:07:44  INFO train loss = 0.09977450221776962
+Mon, 13 Jan 2025 16:07:50  INFO loss: 0.2368793487548828, Performance is better... saving the model
+Mon, 13 Jan 2025 16:07:56  INFO train loss = 0.09339483827352524
+Mon, 13 Jan 2025 16:08:01  INFO loss: 0.22178982198238373, Performance is better... saving the model
+Mon, 13 Jan 2025 16:08:05  INFO train loss = 0.08959737420082092
+Mon, 13 Jan 2025 16:08:11  INFO loss: 0.21045587956905365, Performance is better... saving the model
+Mon, 13 Jan 2025 16:08:15  INFO train loss = 0.08783875405788422
+Mon, 13 Jan 2025 16:08:21  INFO loss: 0.20143850147724152, Performance is better... saving the model
+Mon, 13 Jan 2025 16:08:25  INFO train loss = 0.08712999522686005
+Mon, 13 Jan 2025 16:08:31  INFO loss: 0.19386336207389832, Performance is better... saving the model
+Mon, 13 Jan 2025 16:08:38  INFO train loss = 0.0864618793129921
+Mon, 13 Jan 2025 16:08:43  INFO loss: 0.1881536990404129, Performance is better... saving the model
+Mon, 13 Jan 2025 16:08:49  INFO train loss = 0.0860653668642044
+Mon, 13 Jan 2025 16:08:55  INFO loss: 0.18409079313278198, Performance is better... saving the model
+Mon, 13 Jan 2025 16:08:59  INFO train loss = 0.08593897521495819
+Mon, 13 Jan 2025 16:09:04  INFO loss: 0.18091806769371033, Performance is better... saving the model
+Mon, 13 Jan 2025 16:09:09  INFO train loss = 0.08559593558311462
+Mon, 13 Jan 2025 16:09:14  INFO loss: 0.17903347313404083, Performance is better... saving the model
+Mon, 13 Jan 2025 16:09:19  INFO train loss = 0.08489491790533066
+Mon, 13 Jan 2025 16:09:25  INFO loss: 0.17775608599185944, Performance is better... saving the model
+Mon, 13 Jan 2025 16:09:30  INFO train loss = 0.08383413404226303
+Mon, 13 Jan 2025 16:09:36  INFO loss: 0.17702923715114594, Performance is better... saving the model
+Mon, 13 Jan 2025 16:09:43  INFO train loss = 0.08228108286857605
+Mon, 13 Jan 2025 16:09:49  INFO loss: 0.17655299603939056, Performance is better... saving the model
+Mon, 13 Jan 2025 16:09:53  INFO train loss = 0.08006345480680466
+Mon, 13 Jan 2025 16:09:59  INFO loss: 0.17703287303447723, EarlyStopping counter: 1 out of 10
+Mon, 13 Jan 2025 16:10:03  INFO train loss = 0.07745198905467987
+Mon, 13 Jan 2025 16:10:09  INFO loss: 0.1775321066379547, EarlyStopping counter: 2 out of 10
+Mon, 13 Jan 2025 16:10:13  INFO train loss = 0.0746619924902916
+Mon, 13 Jan 2025 16:10:19  INFO loss: 0.17842760682106018, EarlyStopping counter: 3 out of 10
+Mon, 13 Jan 2025 16:10:24  INFO train loss = 0.071889229118824
+Mon, 13 Jan 2025 16:10:30  INFO loss: 0.17979595065116882, EarlyStopping counter: 4 out of 10
+Mon, 13 Jan 2025 16:10:36  INFO train loss = 0.06902235001325607
+Mon, 13 Jan 2025 16:10:42  INFO loss: 0.18139442801475525, EarlyStopping counter: 5 out of 10
+Mon, 13 Jan 2025 16:10:46  INFO train loss = 0.06595360487699509
+Mon, 13 Jan 2025 16:10:52  INFO loss: 0.18270887434482574, EarlyStopping counter: 6 out of 10
+Mon, 13 Jan 2025 16:10:56  INFO train loss = 0.06279480457305908
+Mon, 13 Jan 2025 16:11:01  INFO loss: 0.18505173921585083, EarlyStopping counter: 7 out of 10
+Mon, 13 Jan 2025 16:11:06  INFO train loss = 0.059563156217336655
+Mon, 13 Jan 2025 16:11:11  INFO loss: 0.186683788895607, EarlyStopping counter: 8 out of 10
+Mon, 13 Jan 2025 16:11:16  INFO train loss = 0.056565478444099426
+Mon, 13 Jan 2025 16:11:22  INFO loss: 0.18857170641422272, EarlyStopping counter: 9 out of 10
+Mon, 13 Jan 2025 16:11:29  INFO train loss = 0.05370302125811577
+Mon, 13 Jan 2025 16:11:35  INFO loss: 0.19020430743694305, EarlyStopping counter: 10 out of 10
+Mon, 13 Jan 2025 16:11:35  INFO loading best model for test
+Mon, 13 Jan 2025 16:11:35  INFO begin testing
+Mon, 13 Jan 2025 16:12:10  INFO For top100, metric recall = 0.003797787312259344
+Mon, 13 Jan 2025 16:12:10  INFO For top300, metric recall = 0.011663877644499412
+Mon, 13 Jan 2025 16:12:10  INFO For top100, metric hit_ratio = 0.039887212130746794
+Mon, 13 Jan 2025 16:12:10  INFO For top300, metric hit_ratio = 0.10755993368266915
+Mon, 13 Jan 2025 16:12:10  INFO For top100, metric coverage = 54.34066293127443
+Mon, 13 Jan 2025 16:12:10  INFO For top300, metric coverage = 114.19984751854587
