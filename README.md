@@ -1,6 +1,6 @@
-# DGRec + Changes
+# Improving Recommendation Diversity with Architectural Modifications to DGRec
 
-A PyTorch and DGL implementation for the WSDM 2023 paper below:  
+Original Paper:  
 [DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation](https://arxiv.org/pdf/2211.10486.pdf)
 
 Environment
