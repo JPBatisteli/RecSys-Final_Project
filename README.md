@@ -17,3 +17,9 @@ You can check different hyper-parameters in `utils/parser.py`
 
 1) Adding transformations after and before each graph convolution
 2) Change the Layer Attention to Gated Attention
+
+## Content 
+
+-Video (link)
+-Slides
+-Article
